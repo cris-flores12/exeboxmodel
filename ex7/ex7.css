@@ -1,0 +1,18 @@
+*{
+    justify-self:center ;
+	margin: 0;
+	padding: 20px;
+  box-sizing: border-box;
+
+}
+
+img {
+  width: 300px; 
+  height: 470px;
+  padding: 20px;
+}
+h1,img{
+    border-radius: 30px;
+  border-color: black;
+  border-style: solid;
+}
