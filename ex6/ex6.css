@@ -1,6 +1,5 @@
 div{
     width: 300px;
-    width: 300px;
     border: 5px;
     box-sizing: border-box;
      background-color: #d3eaff;
@@ -8,7 +7,6 @@ div{
     border:solid;
 }
 div2{
-        width: 300px;
     width: 300px;
     border: 5px;
      background-color: #d3eaff;
